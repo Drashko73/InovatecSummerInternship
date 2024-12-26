@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Rent_A_Car.Simulator">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIEAgCAAAAAQAAAAAQAAAAAAAGIQAICCCAEAAAEAAA=</HashCode>
+      <FileName>Simulator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Rent_A_Car.Kupci.Kupac">
+    <Position X="3.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUCAFAQAAADAAAEAAAAAAAAAAAAAAAAGAAABAAAAAA=</HashCode>
+      <FileName>Kupci\Kupac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Other.Calculation">
+    <Position X="0.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Other\Calculation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Other.DataReader">
+    <Position X="0.5" Y="6.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAEgAAAAAAAAAAAAQACAAAAAAAAgEAAQAA=</HashCode>
+      <FileName>Other\DataReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Other.DataWriter">
+    <Position X="0.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Other\DataWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Rezervacije.Rezervacija">
+    <Position X="3.25" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAACAEAAAAAAAE=</HashCode>
+      <FileName>Rezervacije\Rezervacija.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Rezervacije.RezervacijaZahtev">
+    <Position X="3.25" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rezervacije\RezervacijaZahtev.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Kartice.ClanskaKartica">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAACAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kartice\ClanskaKartica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Kartice.BasicClanskaKartica">
+    <Position X="6.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kartice\BasicClanskaKartica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Kartice.VipClanskaKartica">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kartice\VipClanskaKartica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Kartice.KarticaCreator">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kartice\KarticaCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Constants">
+    <Position X="6.5" Y="4.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AIBBGIAAIABBAAAEAAAkQGASEQEAAAAQiKaQAAAAACA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Vozilo">
+    <Position X="16.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAEABIAAAAAAEAAAQAAAAAAAAACAACAgAAIAAAAA=</HashCode>
+      <FileName>Vozila\Vozilo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Automobili.Automobil">
+    <Position X="13" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAIAAAAEAAAAAAAAAAAAAAABAAIAAAEAAEA=</HashCode>
+      <FileName>Vozila\Automobili\Automobil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Motori.Motor">
+    <Position X="19.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAKA=</HashCode>
+      <FileName>Vozila\Motori\Motor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Oprema">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACABAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\Oprema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.VoziloCreator">
+    <Position X="12.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\VoziloCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Automobili.AutomobilCreator">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\Automobili\AutomobilCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Motori.MotorCreator">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Vozila\Motori\MotorCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Motori.Harley">
+    <Position X="18.25" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\Motori\Harley.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Motori.Yamaha">
+    <Position X="20.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\Motori\Yamaha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Automobili.Mercedes">
+    <Position X="11" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\Automobili\Mercedes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Automobili.BMW">
+    <Position X="13.25" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\Automobili\BMW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rent_A_Car.Vozila.Automobili.Peugeot">
+    <Position X="15.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\Automobili\Peugeot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Rent_A_Car.IReservation">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAQAAAAAAACAAAAAACAEAAAAAAA=</HashCode>
+      <FileName>IReservation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Rent_A_Car.Vozila.Automobili.TipKaroserije">
+    <Position X="15.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQABAAgAAAAIAAACAAAAAAhAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vozila\Automobili\Automobil.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Rent_A_Car.Vozila.Motori.TipMotora">
+    <Position X="21.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAIAEAAAAAACAACAAAgAA=</HashCode>
+      <FileName>Vozila\Motori\Motor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
