@@ -81,6 +81,9 @@
     <None Include="Data\zahtevi_za_rezervacije.csv" />
     <None Include="z_DijagramKlasa.cd" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="README.md" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
